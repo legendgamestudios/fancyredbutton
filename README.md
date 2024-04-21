@@ -1,0 +1,1 @@
+Extract the code zip to a folder and open the index file to see! If you are adding it to a github repo under github pages for a custom domain in a folder, you won't need to type 'example.com/folder/index.html' just 'example.com/folder'.
